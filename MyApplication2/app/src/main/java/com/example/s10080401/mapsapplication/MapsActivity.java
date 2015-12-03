@@ -65,7 +65,7 @@ public class MapsActivity extends FragmentActivity {
     private void setUpMap() {
         mMap.addMarker(new MarkerOptions().position(new LatLng(3, 4)).title("Marker")
                 .title("Puppieeees")
-                .icon(BitmapDescriptorFactory.fromResource(R.drawable.emily)));
+                .icon(BitmapDescriptorFactory.fromResource(R.drawable.pup)));
     }
 }
 
